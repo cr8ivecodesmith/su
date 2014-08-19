@@ -2,8 +2,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'matt lebrun'
 SITENAME = 'super user'
-TAGLINE = ('Programmer/Creative. Creating awesome at Save22 and Advocate of Python Philippines. '
-           'Sometimes works on secret projects.')
+TAGLINE = '(not so) secret blog on lifehacks, hobbies, experimentations, and random interests.'
 USER_LOGO_URL = 'http://www.gravatar.com/avatar/0f0e8de906724bbb54093f1852e7522e.png?size=140x140'
 SITEURL = 'http://su.mattlebrun.com'
 DEFAULT_DATE_FORMAT = '%A, %B %d, %Y'
