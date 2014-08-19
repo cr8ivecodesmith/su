@@ -29,4 +29,15 @@ I'll be following a
 [4-week program](http://www.lulu.com/shop/daniel-segars-and-kelli-segars/low-impact-4-week-fat-loss-program-for-beginners/ebook/product-21250586.html) 
 set up by the awesome folks at [Fitness Blender](http://www.fitnessblender.com/).
 
-I'll be doing a weekly update of my progress here and see how it goes.
+<s>I'll be doing a weekly update of my progress here and see how it goes.</s>
+
+#### update
+
+Whilst I've been lazy about documenting my 4-week experimentation, I can tell you that I've had
+phenomenal results following the program.
+
+Since then, I've developed a habit of regular exercise and is now part of my weekly routine. I've
+also tried out other exercise practices lately such as HIIT and the 7-minute workout to great effect
+as well.
+
+I'm now starting a new fitness program which I'll be writing about soon.
